@@ -1,0 +1,57 @@
+{
+  "basics":{
+        "name": "PRABAKARAN S",
+        "DOB" : "24-10-1996",
+       "email": "prabakaran.s1996@gmail.com",
+       "phone": "+91-8610865406",
+      "degree": "B.Tech- Mechanical Engineering",
+    "location": {
+     "address": "No:40, Navarkulam Main road",
+        "city": "Pondicherry",
+  "postalcode": "605008"
+    }
+      },
+"work": [
+    {
+     "company": "LUCAS-TVS",
+    "position": "Tool Maker",
+   "startDate": "2020-03-30",
+     "endDate": "2022-03-29"
+    }
+  ],
+
+"education": [
+    {
+ "institution": "Christ College of Engineering and Technology.",
+        "area": "B.tech - Mechanival Engineering",
+   "studyType": "Regular",
+   "startDate": "2015-08-20",
+     "endDate": "2019-05-20",
+         "gpa": "7.8"
+    }
+  ],
+
+      "skills": [
+    {
+        "name": " Design And Programming Language",
+    "keywords": [
+        "AutoCad, solid works, Pro-e, creo, and Java-script,c++"
+      ]
+    }
+  ],
+   "languages": [
+    {
+    "language": "English,Tamil"
+    }
+  ],
+   "interests": [
+    {
+        "name": "Sports",
+    "keywords": [
+        "cricket and Football"
+      ]
+    }
+  ]
+
+}
+  

@@ -1,0 +1,34 @@
+//Question No:1 
+
+//FOR:
+   var numbers = [ 10, 20, 30, 40, 50] 
+   for (var i=0; i < numbers.length; i++)
+   {
+   console.log(numbers[i])
+   }
+
+
+//FOR IN:
+   var person = {
+   firstname: "john",
+   lastname: "doe",
+   age: 28
+   }; 
+   for (let x in person) {
+   console.log(x + ": "+ person[x])
+   }
+
+
+//FOR OF:
+   var numbers = [ 10, 20, 30, 40, 50]
+   for (const element of numbers)
+   {
+   console.log(element);
+   }
+
+
+//FOR EACH:
+   var numbers = [ 10, 20, 30, 40, 50] 
+   numbers.forEach((n)=>{
+   console.log(n+5);
+   });
